@@ -1,0 +1,15 @@
+/Users/oleg/Projects/Provodnik/bin/Debug/net7.0/Provodnik
+/Users/oleg/Projects/Provodnik/bin/Debug/net7.0/Provodnik.deps.json
+/Users/oleg/Projects/Provodnik/bin/Debug/net7.0/Provodnik.runtimeconfig.json
+/Users/oleg/Projects/Provodnik/bin/Debug/net7.0/Provodnik.dll
+/Users/oleg/Projects/Provodnik/bin/Debug/net7.0/Provodnik.pdb
+/Users/oleg/Projects/Provodnik/obj/Debug/net7.0/Provodnik.csproj.AssemblyReference.cache
+/Users/oleg/Projects/Provodnik/obj/Debug/net7.0/Provodnik.GeneratedMSBuildEditorConfig.editorconfig
+/Users/oleg/Projects/Provodnik/obj/Debug/net7.0/Provodnik.AssemblyInfoInputs.cache
+/Users/oleg/Projects/Provodnik/obj/Debug/net7.0/Provodnik.AssemblyInfo.cs
+/Users/oleg/Projects/Provodnik/obj/Debug/net7.0/Provodnik.csproj.CoreCompileInputs.cache
+/Users/oleg/Projects/Provodnik/obj/Debug/net7.0/Provodnik.dll
+/Users/oleg/Projects/Provodnik/obj/Debug/net7.0/refint/Provodnik.dll
+/Users/oleg/Projects/Provodnik/obj/Debug/net7.0/Provodnik.pdb
+/Users/oleg/Projects/Provodnik/obj/Debug/net7.0/Provodnik.genruntimeconfig.cache
+/Users/oleg/Projects/Provodnik/obj/Debug/net7.0/ref/Provodnik.dll
